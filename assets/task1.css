@@ -1,0 +1,129 @@
+.right {
+
+    border: 1px solid white;
+    width: 600px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 400px;
+    background-color: white;
+    margin-top: -500px;
+    position: absolute;
+
+
+
+
+}
+
+.left {
+    border: 1px  ;
+     background-color:        #007bff;
+    width: 400px;
+    height: 500px;
+    margin-left: -12px;
+    display: inline-block;
+
+ 
+
+
+}
+.image{
+    border:  1px solid #007bff ;
+    width: 400px;
+    height: 300px;
+ margin-top: 60px;
+ background-image: url(https://kiranworkspace.com/demo/projects/code-snippets/login/simple-login-form/img/welcome.svg);
+ background-size: cover;
+ 
+
+
+
+}
+
+.row>* {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.card {
+
+    margin-top: 35px;
+    margin-left: -10px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    
+   
+}
+.text {
+    margin-top: 300px;
+    color: white;
+   margin-left: 50px;
+}
+.right form{
+    width: 500px;
+    padding: 40px;
+    margin-left: 50px;
+    box-sizing: border-box;
+   
+}
+.right h2{
+    text-align: center;
+    color: #007bff;;
+}
+.right a {
+    text-decoration: none;
+    color: #007bff;
+}
+.right .login  {
+    width: 423px;
+    height: 40px;
+    background-color: #007bff;
+    border-color:#007bff; ;
+    border-radius: 6px;
+}
+.right p{
+    text-align: center;
+}
+.right span{
+    border: 1px solid white;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+ 
+    
+
+
+ 
+}
+.or{
+ 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+   
+
+}
+
+.bottom-buttons{
+   
+    display: flex;
+   
+}
+.bottom-buttons button{
+    width: 150px;
+margin-left: 50px;
+margin-top: -30px;
+   
+}
+.google button{
+    background-color: #db3236;
+    border-color:#db3236;
+}
+.facebook button{
+    background-color: #4267b2;
+    border-color:#4267b2
+}
+
